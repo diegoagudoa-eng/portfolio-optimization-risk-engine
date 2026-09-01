@@ -1,0 +1,10 @@
+Cartera,Rentabilidad_Anual,Volatilidad_Anual,Metodo_Riesgo,VaR_99,CVaR_99
+Cartera 1/N,"0,0911","0,1583",Paramétrico,23205,26585
+Cartera 1/N,"0,0911","0,1583",Histórico,24785,41990
+Cartera 1/N,"0,0911","0,1583",Monte Carlo,22971,27085
+Mínima Varianza,"0,1235","0,1256",Paramétrico,18399,21080
+Mínima Varianza,"0,1235","0,1256",Histórico,21319,29439
+Mínima Varianza,"0,1235","0,1256",Monte Carlo,17808,20287
+Máximo Sharpe,"0,134","0,1286",Paramétrico,18847,21593
+Máximo Sharpe,"0,134","0,1286",Histórico,22486,31656
+Máximo Sharpe,"0,134","0,1286",Monte Carlo,18127,20848

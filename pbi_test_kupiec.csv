@@ -1,0 +1,10 @@
+Modelo VaR,VaR ($),Días Totales,Excepciones Esperadas,Excepciones Reales,Tasa Esperada (%),Tasa Real (%),ES Observado ($),LR,P-Valor,Resultado,Cartera
+Histórico,"24785,020870010205",410,"4,1",8,1.00%,1.95%,"33125,82675697988","2,93","0,0868",Aceptado,Cartera 1/N
+Paramétrico,"23204,7121463162",410,"4,1",8,1.00%,1.95%,"33125,82675697988","2,93","0,0868",Aceptado,Cartera 1/N
+Monte Carlo,"22970,619399208008",410,"4,1",8,1.00%,1.95%,"33125,82675697988","2,93","0,0868",Aceptado,Cartera 1/N
+Histórico,"21318,745216705902",410,"4,1",14,1.00%,3.41%,"32923,6782849845","14,83","0,0001",Rechazado,Mínima Varianza
+Paramétrico,"18399,394372131796",410,"4,1",23,1.00%,5.61%,"27711,909925634227","42,42","0,0",Rechazado,Mínima Varianza
+Monte Carlo,"17808,088063193256",410,"4,1",24,1.00%,5.85%,"27300,177856253937","46,01","0,0",Rechazado,Mínima Varianza
+Histórico,"22486,021923048374",410,"4,1",13,1.00%,3.17%,"31666,51276780625","12,4","0,0004",Rechazado,Máximo Sharpe
+Paramétrico,"18847,182691047066",410,"4,1",16,1.00%,3.90%,"29490,090272206504","20,12","0,0",Rechazado,Máximo Sharpe
+Monte Carlo,"18126,644015634076",410,"4,1",19,1.00%,4.63%,"27731,217574234266","29,02","0,0",Rechazado,Máximo Sharpe
