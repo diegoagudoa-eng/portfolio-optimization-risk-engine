@@ -1,14 +1,17 @@
 # Portfolio Optimization & Market Risk Engine (VaR / CVaR & Kupiec Backtesting)
 
-## 📊 Quantitative Portfolio Risk Management & Stress Testing Dashboard
+### 📊 Quantitative Portfolio Risk Management & Stress Testing Dashboard
 
-[![Interactive Dashboard](https://img.shields.io/badge/Live_Demo-Power_BI_Interactive-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://app.powerbi.com/view?r=eyJrIjoiNzI5OTBhYWUtNzY2Ny00NTEwLTk0MzMtMTcxMjE5YjE4ODhjIiwidCI6ImY3ZGY1NjA1LWE4OGItNDRkMy05NDFkLWIzMGQ3MjE3M2JjNCIsImMiOjh9)
+[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-POWER_BI_INTERACTIVE-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://app.powerbi.com/view?r=eyJrIjoiNzI5OTBhYWUtNzY2Ny00NTEwLTk0MzMtMTcxMjE5YjE4ODhjIiwidCI6ImY3ZGY1NjA1LWE4OGItNDRkMy05NDFkLWIzMGQ3MjE3M2JjNCIsImMiOjh9)  
+[![Python](https://img.shields.io/badge/Python-3.9+-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![Quantitative](https://img.shields.io/badge/Quantitative-Risk_Management-EA580C)](#)
 
 > 🚀 **Acceso en vivo:** Explora el cuadro de mando de forma interactiva directamente desde el navegador haciendo clic en la insignia superior o en el siguiente enlace:  
-> 👉 **[Ver Dashboard Interactivo en Power BI](https://app.powerbi.com/view?r=eyJrIjoiNzI5OTBhYWUtNzY2Ny00NTEwLTk0MzMtMTcxMjE5YjE4ODhjIiwidCI6ImY3ZGY1NjA1LWE4OGItNDRkMy05NDFkLWIzMGQ3MjE3M2JjNCIsImMiOjh9I)**
-![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
-![Risk Management](https://img.shields.io/badge/Quantitative-Risk%20Management-orange.svg)
+> 👉 **[Ver Dashboard Interactivo en Power BI](https://app.powerbi.com/view?r=eyJrIjoiNzI5OTBhYWUtNzY2Ny00NTEwLTk0MzMtMTcxMjE5YjE4ODhjIiwidCI6ImY3ZGY1NjA1LWE4OGItNDRkMy05NDFkLWIzMGQ3MjE3M2JjNCIsImMiOjh9)**
+
+---
+
 
 Un marco integral en Python para la construcción y optimización de carteras multiactivo (Teoría Moderna de Carteras de Markowitz), la estimación del riesgo de cola mediante tres metodologías complementarias (Value at Risk y Expected Shortfall Paramétrico, Histórico y Monte Carlo) y su posterior validación estadística formal fuera de muestra (Out-of-Sample Backtesting mediante el Test de Kupiec).
 
