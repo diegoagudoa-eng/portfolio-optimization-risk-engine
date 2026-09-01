@@ -1,5 +1,11 @@
 # Portfolio Optimization & Market Risk Engine (VaR / CVaR & Kupiec Backtesting)
 
+## 📊 Quantitative Portfolio Risk Management & Stress Testing Dashboard
+
+[![Interactive Dashboard](https://img.shields.io/badge/Live_Demo-Power_BI_Interactive-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://app.powerbi.com/view?r=eyJrIjoiNzI5OTBhYWUtNzY2Ny00NTEwLTk0MzMtMTcxMjE5YjE4ODhjIiwidCI6ImY3ZGY1NjA1LWE4OGItNDRkMy05NDFkLWIzMGQ3MjE3M2JjNCIsImMiOjh9)
+
+> 🚀 **Acceso en vivo:** Explora el cuadro de mando de forma interactiva directamente desde el navegador haciendo clic en la insignia superior o en el siguiente enlace:  
+> 👉 **[Ver Dashboard Interactivo en Power BI](https://app.powerbi.com/view?r=eyJrIjoiNzI5OTBhYWUtNzY2Ny00NTEwLTk0MzMtMTcxMjE5YjE4ODhjIiwidCI6ImY3ZGY1NjA1LWE4OGItNDRkMy05NDFkLWIzMGQ3MjE3M2JjNCIsImMiOjh9I)**
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 ![Risk Management](https://img.shields.io/badge/Quantitative-Risk%20Management-orange.svg)
