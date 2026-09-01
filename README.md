@@ -47,12 +47,11 @@ El universo está diversificado en 5 ETFs globales de alta liquidez:
 * Cartera de Mínima Varianza Global: Minimiza la volatilidad total $\sigma_p = \sqrt{\mathbf{w}^T \boldsymbol{\Sigma} \mathbf{w}}$.
 * Cartera de Máximo Ratio de Sharpe: Maximiza el exceso de retorno por unidad de riesgo $(\mu_p - R_f)/\sigma_p$.
 
-### 2. Metodologías de Riesgo de Cola (Confianza 99% / 1 Día / 1.000.000 USD)
-* VaR y CVaR Paramétrico (Varianza-Covarianza): Asume distribución normal multivariante:
-  $$\Delta P\&L \sim \mathcal{N}(\mu_p, \sigma_p^2)$$
+## 2. Metodologías de Riesgo de Cola (Confianza 99% / 1 Día / 1.000.000 USD)
+* VaR y CVaR Paramétrico (Varianza-Covarianza): Asume distribución normal multivariante: $\Delta \text{PnL} \sim \mathcal{N}(\mu_p, \sigma_p^2)$.
 * VaR y CVaR Histórico (No Paramétrico): Extrae directamente el percentil 1% empírico de la distribución histórica sin supuestos teóricos.
-* Simulación de Monte Carlo: Genera 10.000 escenarios estocásticos de difusión estandarizada:
-  $$\Delta P\&L_i = V_0 \cdot \mu_p \Delta t + V_0 \cdot \sigma_p \sqrt{\Delta t} \cdot Z_i, \quad Z_i \sim \mathcal{N}(0, 1)$$
+* Simulación de Monte Carlo: Genera 10.000 escenarios estocásticos de difusión estandarizada: $\Delta \text{PnL}_i = V_0 \cdot \mu_p \Delta t + V_0 \cdot \sigma_p \sqrt{\Delta t} \cdot Z_i, \quad Z_i \sim \mathcal{N}(0, 1)$.
+---
 ---
 
 ## 📈 Resultados Comparativos
