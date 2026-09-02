@@ -2,13 +2,13 @@
 
 ### 📊 Quantitative Portfolio Risk Management & Stress Testing Dashboard
 
-[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-POWER_BI_INTERACTIVE-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://app.powerbi.com/view?r=eyJrIjoiY2JhYjYxZDMtZjRhOS00NWVkLWI1MzMtZDAzNWViNGU4OWFmIiwidCI6ImY3ZGY1NjA1LWE4OGItNDRkMy05NDFkLWIzMGQ3MjE3M2JjNCIsImMiOjh9)  
+[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-POWER_BI_INTERACTIVE-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://app.powerbi.com/view?r=eyJrIjoiYTI0MTk1Y2EtM2QyZi00MGI3LTliYTMtMzkyMTE5OTI5OWQzIiwidCI6ImY3ZGY1NjA1LWE4OGItNDRkMy05NDFkLWIzMGQ3MjE3M2JjNCIsImMiOjh9)  
 [![Python](https://img.shields.io/badge/Python-3.9+-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Quantitative](https://img.shields.io/badge/Quantitative-Risk_Management-EA580C)](#)
 
 > 🚀 **Acceso en vivo:** Explora el cuadro de mando de forma interactiva directamente desde el navegador haciendo clic en la insignia superior o en el siguiente enlace:  
-> 👉 **[Ver Dashboard Interactivo en Power BI](https://app.powerbi.com/view?r=eyJrIjoiY2JhYjYxZDMtZjRhOS00NWVkLWI1MzMtZDAzNWViNGU4OWFmIiwidCI6ImY3ZGY1NjA1LWE4OGItNDRkMy05NDFkLWIzMGQ3MjE3M2JjNCIsImMiOjh9)**
+> 👉 **[Ver Dashboard Interactivo en Power BI](https://app.powerbi.com/view?r=eyJrIjoiYTI0MTk1Y2EtM2QyZi00MGI3LTliYTMtMzkyMTE5OTI5OWQzIiwidCI6ImY3ZGY1NjA1LWE4OGItNDRkMy05NDFkLWIzMGQ3MjE3M2JjNCIsImMiOjh9)**
 
 ---
 
